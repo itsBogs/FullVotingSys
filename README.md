@@ -2,10 +2,6 @@
 
 > A secure and modern web-based voting system designed for school elections, allowing students to vote electronically while providing administrators with tools to manage candidates, elections, and results.
 
-## 📸 Preview
-
-![System Preview](YOUR_IMAGE_LINK_HERE)
-
 ---
 
 ## ✨ Features
